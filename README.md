@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0013-roman-to-integer) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
