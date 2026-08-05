@@ -2,31 +2,39 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> left(n), right(n);
-        stack<int> st;
+        int n=heights.size();
+        vector<int> left(n, 0);
+        vector<int> right(n, 0);
+        stack<int> s;
 
-        // Nearest Smaller to Left
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) st.pop();
-            left[i] = st.empty() ? -1 : st.top();
-            st.push(i);
+        for(int i=n-1; i>=0; i--){
+            while(s.size()>0 && heights[s.top()] >= heights[i]){
+                s.pop();
+            }
+
+            right[i] = s.empty() ? n: s.top();
+            s.push(i);
         }
 
-        while (!st.empty()) st.pop();
+        while(!s.empty()){
+            s.pop();
+        }
+        for(int i =0; i<n; i++){
+            while(s.size()>0 && heights[s.top()] >= heights[i]){
+                s.pop();
+            }
 
-        // Nearest Smaller to Right
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) st.pop();
-            right[i] = st.empty() ? n : st.top();
-            st.push(i);
+            left[i] = s.empty() ? -1: s.top();
+            s.push(i);
         }
 
-        int maxArea = 0;
-        for (int i = 0; i < n; i++) {
-            int width = right[i] - left[i] - 1;
-            maxArea = max(maxArea, heights[i] * width);
+        int ans =0;
+        for(int i=0; i<n;i++){
+            int width =right[i] -left[i]-1;
+            int currArea = heights[i]*width;
+            ans = max(ans, currArea);
         }
-        return maxArea;
+
+        return ans;
     }
 };
