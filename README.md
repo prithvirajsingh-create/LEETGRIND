@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0503-next-greater-element-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
