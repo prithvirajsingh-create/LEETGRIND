@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0496-next-greater-element-i) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
