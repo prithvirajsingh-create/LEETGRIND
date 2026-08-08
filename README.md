@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0503-next-greater-element-ii) |
@@ -92,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
