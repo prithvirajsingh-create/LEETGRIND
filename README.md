@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0090-subsets-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
