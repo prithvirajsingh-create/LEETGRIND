@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
