@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
