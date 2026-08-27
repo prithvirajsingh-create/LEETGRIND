@@ -27,15 +27,17 @@ public:
             st.pop();
         }
 
-        reverse(res.begin(), res.end());
+        // reverse(res.begin(), res.end());
 
-        int i = 0;
+        // int i = 0;
 
-        while (i < res.size() && res[i] == '0') {
-            i++;
+        while (res.size()!=0 && res.back()=='0') {
+            res.pop_back();
         }
 
-        res = res.substr(i);
+        reverse(res.begin(), res.end());
+
+        // res = res.substr(i);
 
         if (res.empty()) {
             return "0";
