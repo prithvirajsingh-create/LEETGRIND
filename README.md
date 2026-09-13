@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0078-subsets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prithvirajsingh-create/LEETGRIND/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
