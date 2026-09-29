@@ -13,7 +13,7 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
-        ListNode* next = NULL;
+        ListNode* next= NULL;
 
         while(curr != NULL){
             next = curr->next;
